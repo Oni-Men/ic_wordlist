@@ -1,0 +1,7 @@
+sheet.url
+hook.url
+
+**/__pycache__/**
+
+*.pyc
+*.log
